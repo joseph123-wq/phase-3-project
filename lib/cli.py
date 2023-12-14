@@ -84,7 +84,7 @@ def view_all_data():
 if __name__ == "__main__":
     create_database()  
     while True:
-        print("\nCommands:")
+        print("\n=====WELCOME=====:")
         print("1. Add Artist")
         print("2. Add Artwork")
         print("3. Delete Artwork")
